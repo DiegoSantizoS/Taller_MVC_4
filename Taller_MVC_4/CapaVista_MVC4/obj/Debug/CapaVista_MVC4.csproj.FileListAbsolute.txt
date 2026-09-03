@@ -1,0 +1,13 @@
+C:\MIUMG 2026\S2\TERMINUS\Taller_MVC_4\Taller_MVC_4\CapaVista_MVC4\bin\Debug\CapaVista_MVC4.dll
+C:\MIUMG 2026\S2\TERMINUS\Taller_MVC_4\Taller_MVC_4\CapaVista_MVC4\bin\Debug\CapaVista_MVC4.pdb
+C:\MIUMG 2026\S2\TERMINUS\Taller_MVC_4\Taller_MVC_4\CapaVista_MVC4\bin\Debug\CapaControlador_MVC4.dll
+C:\MIUMG 2026\S2\TERMINUS\Taller_MVC_4\Taller_MVC_4\CapaVista_MVC4\bin\Debug\CapaModelo_MVC4.dll
+C:\MIUMG 2026\S2\TERMINUS\Taller_MVC_4\Taller_MVC_4\CapaVista_MVC4\bin\Debug\CapaControlador_MVC4.pdb
+C:\MIUMG 2026\S2\TERMINUS\Taller_MVC_4\Taller_MVC_4\CapaVista_MVC4\bin\Debug\CapaModelo_MVC4.pdb
+C:\MIUMG 2026\S2\TERMINUS\Taller_MVC_4\Taller_MVC_4\CapaVista_MVC4\obj\Debug\CapaVista_MVC4.csproj.AssemblyReference.cache
+C:\MIUMG 2026\S2\TERMINUS\Taller_MVC_4\Taller_MVC_4\CapaVista_MVC4\obj\Debug\CapaVista_MVC4.frmPrincipal.resources
+C:\MIUMG 2026\S2\TERMINUS\Taller_MVC_4\Taller_MVC_4\CapaVista_MVC4\obj\Debug\CapaVista_MVC4.csproj.GenerateResource.cache
+C:\MIUMG 2026\S2\TERMINUS\Taller_MVC_4\Taller_MVC_4\CapaVista_MVC4\obj\Debug\CapaVista_MVC4.csproj.CoreCompileInputs.cache
+C:\MIUMG 2026\S2\TERMINUS\Taller_MVC_4\Taller_MVC_4\CapaVista_MVC4\obj\Debug\CapaVist.12D9158A.Up2Date
+C:\MIUMG 2026\S2\TERMINUS\Taller_MVC_4\Taller_MVC_4\CapaVista_MVC4\obj\Debug\CapaVista_MVC4.dll
+C:\MIUMG 2026\S2\TERMINUS\Taller_MVC_4\Taller_MVC_4\CapaVista_MVC4\obj\Debug\CapaVista_MVC4.pdb

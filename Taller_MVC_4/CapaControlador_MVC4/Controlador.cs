@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace CapaControlador_MVC4
 {
-    internal class Controlador
+    public class Controlador
     {
         Sentencias sentencias = new Sentencias();
         public DataTable llenarDgv(string nombreTabla)
