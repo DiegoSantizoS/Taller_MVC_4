@@ -1,3 +1,4 @@
 <Solution>
+  <Project Path="CapaControlador_MVC4/CapaControlador_MVC4.csproj" Id="edac0122-02a3-48b6-964f-6198c02a309f" />
   <Project Path="CapaModelo_MVC4/CapaModelo_MVC4.csproj" Id="e55e4de1-151d-433a-b915-4716fa6c95a4" />
 </Solution>
