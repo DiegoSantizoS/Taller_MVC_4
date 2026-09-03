@@ -7,11 +7,11 @@
       "RelativeMoniker": "D:0:0:{EE2926F0-4BED-4827-AEB1-70D4B71725F9}|CapaVista_MVC4\\CapaVista_MVC4.csproj|solutionrelative:capavista_mvc4\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDAC0122-02A3-48B6-964F-6198C02A309F}|CapaControlador_MVC4\\CapaControlador_MVC4.csproj|c:\\miumg 2026\\s2\\terminus\\taller_mvc_4\\taller_mvc_4\\capacontrolador_mvc4\\controlador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EDAC0122-02A3-48B6-964F-6198C02A309F}|CapaControlador_MVC4\\CapaControlador_MVC4.csproj|C:\\MIUMG 2026\\S2\\TERMINUS\\Taller_MVC_4\\Taller_MVC_4\\capacontrolador_mvc4\\controlador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EDAC0122-02A3-48B6-964F-6198C02A309F}|CapaControlador_MVC4\\CapaControlador_MVC4.csproj|solutionrelative:capacontrolador_mvc4\\controlador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE2926F0-4BED-4827-AEB1-70D4B71725F9}|CapaVista_MVC4\\CapaVista_MVC4.csproj|c:\\miumg 2026\\s2\\terminus\\taller_mvc_4\\taller_mvc_4\\capavista_mvc4\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{EE2926F0-4BED-4827-AEB1-70D4B71725F9}|CapaVista_MVC4\\CapaVista_MVC4.csproj|C:\\MIUMG 2026\\S2\\TERMINUS\\Taller_MVC_4\\Taller_MVC_4\\capavista_mvc4\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{EE2926F0-4BED-4827-AEB1-70D4B71725F9}|CapaVista_MVC4\\CapaVista_MVC4.csproj|solutionrelative:capavista_mvc4\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -80,7 +80,7 @@
               "RelativeDocumentMoniker": "CapaVista_MVC4\\frmPrincipal.cs",
               "ToolTip": "C:\\MIUMG 2026\\S2\\TERMINUS\\Taller_MVC_4\\Taller_MVC_4\\CapaVista_MVC4\\frmPrincipal.cs",
               "RelativeToolTip": "CapaVista_MVC4\\frmPrincipal.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAxwB0AAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAAB0AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-03T02:37:49.663Z",
               "EditorCaption": ""
@@ -94,8 +94,7 @@
               "ToolTip": "C:\\MIUMG 2026\\S2\\TERMINUS\\Taller_MVC_4\\Taller_MVC_4\\CapaVista_MVC4\\frmPrincipal.cs [Dise\u00F1o]",
               "RelativeToolTip": "CapaVista_MVC4\\frmPrincipal.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-03T02:37:06.213Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2026-09-03T02:37:06.213Z"
             },
             {
               "$type": "Document",
@@ -107,8 +106,7 @@
               "RelativeToolTip": "CapaControlador_MVC4\\Controlador.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-03T02:29:37.094Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-03T02:29:37.094Z"
             },
             {
               "$type": "Document",
